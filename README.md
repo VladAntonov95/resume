@@ -2,14 +2,6 @@
 
 This is a personal CV website showcasing my skills, experience, as a web developer. It includes sections such as an  skills, work experience, education, and contact information.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Support](#support)
-- [License](#license)
-
 ## Installation
 
 ```bash
