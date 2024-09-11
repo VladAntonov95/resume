@@ -1,5 +1,8 @@
 https://resume-five-rose.vercel.app/
+
 https://github.com/VladAntonov95/resume 
+
+https://roadmap.sh/projects/single-page-cv
 
 # Vlad Antonov CV || Web Development CV 
 
